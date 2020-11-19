@@ -2,16 +2,6 @@
 
 **What2Cook** is an iOS app that allows users to quickly find recipes and start cooking! Users can search for popular recipes or use the “What’s In My Fridge” feature to discover recipes that they can make now using only ingredients they have in their fridge! This app can be used hands-off while cooking with text-to-speech to read out recipe instructions and voice commands to navigate through the directions.
 
-## User Stories
-
-- [X] As a user, I want to be able to easily view recipes and all of the information associated with them, such as ingredients used, relative difficulty, time length, dietary restrictions, and instructions.
-- [X] As a user, I want to be able to view all of these recipes in 2 forms, one at a time (single image) and all at once (collection view of images).
-- [X] As a user, I want to be able to swipe left or right to quickly view receipes during Single view mode. 
-- [X] As a user, I want to be able to discover new recipes using only the ingredients in my fridge or pantry.
-- [X] As a user, I want to be able to bookmark certain recipes to view them offline
-- [X] As a user, I want a navbar to see my profile, bookmarks, settings, help, logout etc.
-- [X] As a user, I want to be able to hear the instruction of the receipes read out loud ( TTS/ audio).
-
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
@@ -23,6 +13,16 @@ https://i.imgur.com/nFd6xC7.gif
 
 3. Recipe View + Bookmarks(Works offline):
 https://i.imgur.com/CQyYOaI.gif
+
+## User Stories
+
+- [X] As a user, I want to be able to easily view recipes and all of the information associated with them, such as ingredients used, relative difficulty, time length, dietary restrictions, and instructions.
+- [X] As a user, I want to be able to view all of these recipes in 2 forms, one at a time (single image) and all at once (collection view of images).
+- [X] As a user, I want to be able to swipe left or right to quickly view receipes during Single view mode. 
+- [X] As a user, I want to be able to discover new recipes using only the ingredients in my fridge or pantry.
+- [X] As a user, I want to be able to bookmark certain recipes to view them offline
+- [X] As a user, I want a navbar to see my profile, bookmarks, settings, help, logout etc.
+- [X] As a user, I want to be able to hear the instruction of the receipes read out loud ( TTS/ audio).
 
 
 ## How To Use
