@@ -11,7 +11,7 @@ https://i.imgur.com/SNA7KCQ.gif
 2. What's in my Fridge feature:
 https://i.imgur.com/nFd6xC7.gif
 
-3. Recipe View + Bookmarks(Works offline):
+3. Recipe View + Bookmarks (Works offline):
 https://i.imgur.com/CQyYOaI.gif
 
 ## User Stories
