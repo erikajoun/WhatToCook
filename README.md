@@ -1,4 +1,4 @@
-# *What2Cook*
+# What2Cook
 
 **What2Cook** is an iOS app that allows users to quickly find recipes and start cooking! Users can search for popular recipes or use the “What’s In My Fridge” feature to discover recipes that they can make now using only ingredients they have in their fridge! This app can be used hands-off while cooking with text-to-speech to read out recipe instructions and voice commands to navigate through the directions.
 
